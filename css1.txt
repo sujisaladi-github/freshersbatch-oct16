@@ -1,3 +1,1 @@
-this is cascading style sheet 1
-one of the Assignments
-done by students.
+-This is css1.
