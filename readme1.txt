@@ -1,0 +1,1 @@
+-On the Overview tab, under Assignment Folder, select Create Assignment Folder

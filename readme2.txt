@@ -1,0 +1,1 @@
+-To allow students to see others’ videos: Open the Settings menu for the Assignments folder and navigate to the Settings tab. Select the checkbox next to “Allow viewers to see each other’s sessions.”
